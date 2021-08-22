@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! Sou o Sebatião Felix! 👋
+
+<div>
+  <a href="https://github.com/Raposa-Dev">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Raposa-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raposa-Dev&layout=compact&langs_count=7&theme=algolia" />
+</div>
 
 <!--
 **Raposa-Dev/Raposa-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
