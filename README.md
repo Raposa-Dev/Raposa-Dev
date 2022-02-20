@@ -31,9 +31,7 @@
   
 <h3>Meus projetos.</h3>
 
-<a>https://raposa-dev.github.io/Maratona_Discover/index.html</a>
-
-<a>https://raposa-dev.github.io/Portfolio-JR/index.html</a>
+[Portifolio](https://fuchs-code.netlify.app/)
 
  
 <!--
