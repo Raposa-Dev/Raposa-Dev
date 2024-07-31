@@ -2,7 +2,7 @@
 
 - Olá! Sou o Sebatião Felix! 👋
 
-- 👨‍💻 Junior Web Developer 
+- 👨‍💻 Web Developer 
 
 <br><br>
 
