@@ -2,7 +2,8 @@
 
 - Olá! Sou o Sebatião Felix! 👋
 
-- 👨‍💻 Web Developer 
+- 👨‍💻 Web Developer apaixonado por criar soluções eficientes. Atualmente, estou focado em Node JS, com interesse em se tornar FullStack.
+
 
 <br><br>
 
