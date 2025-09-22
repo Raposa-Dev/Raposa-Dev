@@ -1,24 +1,40 @@
-- Welcome to my profile!
+<h1 align="left"> Welcome to my profile </h1>
 
-- Olá! Sou o Sebatião Felix! 👋
+<p align="left"> My name is <strong>Sebastião Felix</strong>, and I'm a Software Engineer from São Paulo, Brazil. </p>
 
-- 👨‍💻 Web Developer apaixonado por criar soluções eficientes. Atualmente, estou focado em Node JS, com interesse em se tornar FullStack.
+<h2 align="left">About me</h2>
 
+###
 
-<br><br>
+<p align="left">✨ Crafting scalable code and tackling bugs in JavaScript.<br><br>📚 Currently diving deep into MongoDB and PostgreSQL for Full-Stack development.<br><br>🎯 My goal is to build clean, standardized, and scalable systems.<br><br>🎲 I'm an avid fan of philosophy, neuroscience, and Minecraft.</p>
+
+###
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+###
 
-<br><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
 ##
 
@@ -28,7 +44,11 @@
   <img height = "220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raposa-Dev&theme=synthwave" />
 </div>
 
-  ##
+###
+
+<!-- <img src="https://raw.githubusercontent.com/Raposa-Dev/Raposa-Dev/output/snake.svg" alt="Snake animation" /> -->
+
+###
   
 <h3>Meus projetos.</h3>
 
