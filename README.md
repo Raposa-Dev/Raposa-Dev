@@ -39,7 +39,7 @@
 ##
 
 <div>
-  <a href="https://github.com/Raposa-Dev">
+  <a href="https://github.com/Felix-Unit">
   <img height = "220em" src = "https://github-readme-stats.vercel.app/api?username=Raposa-Dev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
   <img height = "220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raposa-Dev&theme=synthwave" />
 </div>
@@ -52,11 +52,11 @@
   
 <h3>Meus projetos.</h3>
 
-[Portifolio](https://fuchs-code.netlify.app/)
+[Portifolio](https://www.felix-unit.com.br)
 
  
 <!--
-**Raposa-Dev/Raposa-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Felix-Unit/Felix-Unit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
